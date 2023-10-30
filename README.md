@@ -1,2 +1,3 @@
 # File-encryption-and-decryption-project
-What is this?
+Steps:
+1) Write a script
