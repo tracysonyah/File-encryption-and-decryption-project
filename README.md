@@ -1,6 +1,6 @@
 # File-encryption-and-decryption-project
 ## Description
-This is a script file that allows you to encrpt and decrypt files.
+This is a script file that allows you to encrpt and decrypt files based on a specified password.
 
 Steps:
 1) Create a script file and call it 'encrypt-decrypt.sh'
